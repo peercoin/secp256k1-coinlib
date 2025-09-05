@@ -1,5 +1,7 @@
 # Contributing to libsecp256k1
 
+This is only for the upstream libsecp256k1.
+
 ## Scope
 
 libsecp256k1 is a library for elliptic curve cryptography on the curve secp256k1, not a general-purpose cryptography library.

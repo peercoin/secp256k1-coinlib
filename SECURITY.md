@@ -1,5 +1,7 @@
 # Security Policy
 
+This is only for the upstream libsecp256k1.
+
 ## Reporting a Vulnerability
 
 To report security issues send an email to secp256k1-security@bitcoincore.org (not for support).

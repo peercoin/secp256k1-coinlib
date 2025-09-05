@@ -1,5 +1,9 @@
 # Changelog
 
+This repository was forked from the [upstream
+library](https://github.com/bitcoin-core/secp256k1) from 0.7.0 where adaptor
+signature support for MuSig2 was added. This file contains upstream changes.
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
